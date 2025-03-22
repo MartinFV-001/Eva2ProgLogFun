@@ -34,58 +34,11 @@ Este ejercicio trata sobre un grafo no dirigido, lo que significa que las conexi
 
 Se tiene una lista de 10 elementos, y se deben realizar diversas operaciones sobre ella.
 
-### **Lista Inicial:**
+- **Concatenación (++):** Une dos listas.
+- **head y last:** Obtienen el primer y último elemento.
+- **Filtrado (filter even):** Extrae los números pares.
+- **Mapeo (map (^2)):** Eleva cada número al cuadrado.
 
-```python
-lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-```
-
-### **Operaciones a Realizar:**
-
-#### 1. **Concatenación (++):**
-
-La concatenación de dos listas une sus elementos.
-
-```python
-lista1 = [1, 2, 3]
-lista2 = [4, 5, 6]
-concatenada = lista1 + lista2
-# Resultado: [1, 2, 3, 4, 5, 6]
-```
-
-#### 2. **Head y Last:**
-
-- **Head:** Obtiene el primer elemento de la lista.
-
-```python
-head = lista[0]
-# Resultado: 1
-```
-
-- **Last:** Obtiene el último elemento de la lista.
-
-```python
-last = lista[-1]
-# Resultado: 10
-```
-
-#### 3. **Filtrado (filter even):**
-
-Se extraen los números pares de la lista.
-
-```python
-pares = list(filter(lambda x: x % 2 == 0, lista))
-# Resultado: [2, 4, 6, 8, 10]
-```
-
-#### 4. **Mapeo (map (^2)):**
-
-Cada número de la lista se eleva al cuadrado.
-
-```python
-cuadrados = list(map(lambda x: x ** 2, lista))
-# Resultado: [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
-```
 
 ### **Ejecución en Terminal:**
 
