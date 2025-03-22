@@ -1,5 +1,10 @@
 # **Evaluación Práctica**
 
+## **Integrantes del equipo:**
+
+- MARTIN FERIA VAZQUEZ N.C. 21200594
+- GAMERO SERRANO RODRIGO N.C. 21200597
+
 ## **Ejercicio 1: Análisis de Grafo No Dirigido**
 
 Este ejercicio trata sobre un grafo no dirigido, lo que significa que las conexiones entre los nodos son bidireccionales. Si el nodo A está conectado con el nodo B, entonces B también está conectado con A.
