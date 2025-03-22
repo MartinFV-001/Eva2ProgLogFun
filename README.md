@@ -54,6 +54,6 @@ Se tiene una lista de 10 elementos, y se deben realizar diversas operaciones sob
 ## **Conclusión:**
 
 - En el ejercicio 1, se presentó un grafo no dirigido con ciclos específicos que fueron analizados a partir de sus conexiones.
-- En el ejercicio 2, se realizaron varias operaciones básicas con listas en Python, como concatenación, obtener el primer y último elemento, filtrar elementos pares y elevar los elementos al cuadrado.
+- En el ejercicio 2, se realizaron varias operaciones básicas con listas en Haskell, como concatenación, obtener el primer y último elemento, filtrar elementos pares y elevar los elementos al cuadrado.
 
 ---
