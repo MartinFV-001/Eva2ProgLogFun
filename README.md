@@ -26,7 +26,7 @@ Este ejercicio trata sobre un grafo no dirigido, lo que significa que las conexi
 
 ### **Ejecución en Terminal:**
 
-- ![Imagen del Grafo](https://github.com/tu-usuario/tu-repositorio/img/E1.png)
+- ![Imagen del Grafo](img/E1.png)
 
 ---
 
@@ -42,7 +42,7 @@ Se tiene una lista de 10 elementos, y se deben realizar diversas operaciones sob
 
 ### **Ejecución en Terminal:**
 
-- ![Imagen de las Operaciones](https://github.com/tu-usuario/tu-repositorio/img/E2.png)
+- ![Imagen de las Operaciones](img/E2.png)
 
 ---
 
